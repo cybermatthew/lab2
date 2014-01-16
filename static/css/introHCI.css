@@ -43,3 +43,7 @@ body {
 .thumbnail {
      box-shadow: 1px 1px 10px black;
 }
+
+.thumbnail:hover{
+     box-shadow: 1px 1px 0px black;
+} 
